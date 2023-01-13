@@ -5,6 +5,9 @@
 body {
   background-color: skyblue;
 }
+::-webkit-scrollbar {
+  width: 0 !important;
+}
 
 
 /*# sourceMappingURL=/style.a11e3109.css.map */
